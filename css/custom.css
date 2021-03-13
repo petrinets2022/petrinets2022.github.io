@@ -1,0 +1,169 @@
+@media only screen and (min-width: 768px) {
+  .navbar-custom {
+    background: rgba(255, 255, 255, 0.8);
+    border-bottom: 1px solid transparent;
+    opacity: 0.9;	      
+  }
+  /** for the "icon" ***/
+  .navbar-custom .navbar-brand {
+    color: #404040;
+    padding: 20px;
+  }
+  .navbar-custom .navbar-brand:hover,
+  .navbar-custom .navbar-brand:focus {
+    color: #0085a1;
+  }
+  .navbar-custom .nav li a {
+    font-family: "Segoe UI", Arial, sans-serif;  
+    color: #404040;
+    padding: 20px;
+  }
+  .navbar-custom .nav li a:hover,
+  .navbar-custom .nav li a:focus {
+    color: #ffffff;
+    background-color: #0085a1;
+  }
+}
+
+/* When the navbar is floating */
+  .navbar-custom.is-fixed .nav li a:hover,
+  .navbar-custom.is-fixed .nav li a:focus {
+    color: #ffffff;
+  }
+  
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    /*this allows the overbar is on-top of the header image, not FLOATING on-top */
+    padding-top: 60px; /* This value depends on the height of your navbar. */
+} 
+
+/* This affect only the site (the front page)*/
+.intro-header .site-heading .subheading {
+  font-size: 24px;
+  line-height: 2;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.6); /* Black w/opacity/see-through */
+}
+
+/* This affect only the page */
+.intro-header .page-heading .subheading {
+  font-size: 24px;
+  line-height: 2;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
+
+/* hyperlink */
+p a {
+  text-decoration: none;
+}
+
+a {
+  color: #0085a1;
+}
+a:hover,
+a:focus {
+  color: #ffffff;
+  background-color: #0085a1;
+  text-decoration: none;
+}
+
+/* make sure when hovering the fa-stack-icon, the icon remain unchanged */
+/* (because hovering links now reverse the colour) */
+.fa-stack:hover {
+  color: #0085a1;
+  background: #ffffff;
+}
+
+a img:hover,
+a img:focus {
+  background: #ffffff;  
+  cursor: pointer;
+  background-color: #ffffff;
+}
+
+/*change the fontsize of h1 for page-heading if the screen is larger than 768px*/
+@media only screen and (min-width: 768px) {
+  .intro-header .page-heading h1 {
+    font-size: 65px;
+  }
+}
+
+/*change the fontsize according to the size of the screen (fixed when larger than 767px)*/
+/*https://drafts.csswg.org/css-values-3/#viewport-relative-lengths*/
+@media only screen and (max-width: 767px) {
+  .intro-header .site-heading h1 {
+    font-size: 12vw;
+  }
+  .intro-header .page-heading h1 {
+    font-size: 10vw;
+  }
+}
+
+@media only screen and (max-width: 599px) {
+  .intro-header .site-heading .subheading {
+    font-size: 4vw;
+  }  
+  h1 {
+    font-size: 6.5vw;
+  }
+  h2 {
+    font-size: 5.5vw;
+  }
+  h3 {
+    font-size: 4.5vmin;      
+  }  
+  p {
+    font-size: 3.5vmin;
+  }
+  td {
+    font-size: 3.5vmin;
+  }
+  ul {
+    font-size: 3.5vmin;
+  }    
+}
+
+@media (min-width: 600px) and (max-width: 767px) {
+  .intro-header .site-heading .subheading {
+    font-size: 3.3vw;
+  }
+  h1 {
+    font-size: 5.5vw;
+  }
+  h2 {
+    font-size: 4.5vw;
+  }
+  h3 {
+    font-size: 3.5vmin;      
+  }  
+  p {
+    font-size: 2.5vmin;
+  }
+  td {
+    font-size: 2.5vmin;
+  }
+  ul {
+    font-size: 2.5vmin;
+  }
+}
+
+h2,h3,h4,h5,h6 {
+    font-family: "Segoe UI", Arial, sans-serif
+}
+
+
+
+//img{
+//    max-width: 25%;
+//    height: auto;
+//}
+
+
