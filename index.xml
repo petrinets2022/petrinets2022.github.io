@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ICTAC 2020</title>
+    <title>PETRI NETS 2022</title>
     <link>https://petrinets2022.github.io/</link>
-    <description>Recent content on ICTAC 2020</description>
+    <description>Recent content on PETRI NETS 2022</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>ICTAC 2020</copyright><atom:link href="https://petrinets2022.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Petri Nets 2022</copyright><atom:link href="https://petrinets2022.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://petrinets2022.github.io/home/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/home/</guid>
+      <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022.
+The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus bergen
+ The city of Bergen Bergen is a world heritage city and the gateway to the Fjords of Norway.</description>
+    </item>
+    
+    <item>
+      <title>Accepted Papers</title>
+      <link>https://petrinets2022.github.io/accepted/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/accepted/</guid>
+      <description> To be announced
+ </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://petrinets2022.github.io/about/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/about/</guid>
+      <description>Established in 2004 by the International Institute for Software Technology of the United Nations University (UNU-IIST, currently known as the United Nations University Institute in Macau), the ICTAC conference series aims at bringing together researchers and practitioners from academia, industry and government to present research and exchange ideas and experience addressing challenges in both theoretical aspects of computing and the exploitation of theory through methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.</description>
+    </item>
+    
     <item>
       <title>RV Lectures @ ICTAC</title>
       <link>https://petrinets2022.github.io/rvlec/</link>
@@ -23,16 +53,8 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/keynotes/</guid>
-      <description>Klaus Havelund(Jet Propulsion Laboratory, California Institute of Technology, USA) A Flight Rule Checker for the LADEE Lunar Spacecraft As part of the design of a space mission, an important part is the design of so-called flight rules. Flight rules express constraints on various parts and processes of the mission, that if followed, will reduce the risk of failure. One such set of flight rules constrain the format of command sequences regularly (e.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://petrinets2022.github.io/about/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petrinets2022.github.io/about/</guid>
-      <description>Established in 2004 by the International Institute for Software Technology of the United Nations University (UNU-IIST, currently known as the United Nations University Institute in Macau), the ICTAC conference series aims at bringing together researchers and practitioners from academia, industry and government to present research and exchange ideas and experience addressing challenges in both theoretical aspects of computing and the exploitation of theory through methods and tools for system development. ICTAC also aims to promote research cooperation between developing and industrial countries.</description>
+      <description> To be announced
+ </description>
     </item>
     
     <item>
@@ -45,30 +67,13 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
     </item>
     
     <item>
-      <title>Home</title>
-      <link>https://petrinets2022.github.io/home/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Call for Papers</title>
+      <link>https://petrinets2022.github.io/cfp/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://petrinets2022.github.io/home/</guid>
-      <description>Virtual Conference.  Due to the COVID-pandemic, the organisation committee decided that ICTAC 2020 will be held virtually only. Accepted papers will be published as a LNCS proceedings as planned, and have to be presented at the virtual conference. Welcome to ICTAC 2020 The 17th International Colloquium on Theoretical Aspects of Computing (ICTAC) will take place in Macau S.A.R., China on 30 Nov - 4 Dec, 2020.
-News  Lectures on RV will be given on 30 Nov - 1 Dec.</description>
-    </item>
-    
-    <item>
-      <title>Accepted Papers</title>
-      <link>https://petrinets2022.github.io/accepted/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://petrinets2022.github.io/accepted/</guid>
-      <description>Proof-theoretic Conservative Extension of HOL with Ad-hoc Overloading.
-Arve Gengelbach and Tjark Weber
-  A Myhill-Nerode Theorem for Register Automata and Symbolic Trace Languages.
-Frits Vaandrager and Abhisek Midya
-  Qsimulation V2.0: an Optimized Quantum Simulator. (Tool paper)
-Hua Wu, Yuxin Deng, Ming Xu and Wenjie Du
-  CiMPG+F: A Proof Generator &amp;amp; Fixer-upper for CafeOBJ Specifications.
-Adrián Riesco and Kazuhiro Ogata
-  Statistical Analysis of Non-Deterministic Fork-Join Processes.</description>
+      <guid>https://petrinets2022.github.io/cfp/</guid>
+      <description> To be added
+ </description>
     </item>
     
     <item>
@@ -77,11 +82,7 @@ Adrián Riesco and Kazuhiro Ogata
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/registration/</guid>
-      <description>Please register with the online registration form (switch to English in the top-right corner).
-Registration for ICTAC 2020 is free through support from Springer and the Norwegian Research Council.
-At least one author per accepted paper must register to the conference by Monday, 18th November.
-The conference and the RV lectures will be implemented using Zoom.
-2 x 1/2 day RV Lectures on 30th Nov &amp;ndash; 1st Dec is for free, please indicate in the registration page about your interest.</description>
+      <description>To be announced</description>
     </item>
     
     <item>
@@ -90,16 +91,7 @@ The conference and the RV lectures will be implemented using Zoom.
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/contact/</guid>
-      <description>General inquiries about ICTAC 2020 can be addressed to: ictac2020@easychair.org.</description>
-    </item>
-    
-    <item>
-      <title>Call for Papers</title>
-      <link>https://petrinets2022.github.io/cfp/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petrinets2022.github.io/cfp/</guid>
-      <description>Virtual Conference.  Due to the COVID-pandemic, the organisation committee decided that ICTAC 2020 will be held virtually only. Accepted papers will be published as a LNCS proceedings as planned, and have to be presented at the virtual conference. We are pleased to invite you to submit papers for the 17th International Colloquium on Theoretical Aspects of Computing (ICTAC 2020), which will take place in Macao S.A.R., China on 30 November- 4 December, 2020.</description>
+      <description>General inquiries about Petri Nets 2022 can be addressed to: petrinets2022@gmail.com.</description>
     </item>
     
     <item>
@@ -109,16 +101,10 @@ The conference and the RV lectures will be implemented using Zoom.
       
       <guid>https://petrinets2022.github.io/committees/</guid>
       <description>Program Committee Chairs
-Violet Ka I Pun (Western Norway University of Applied Sciences, University of Oslo, NO)
-Adenilso da Silva Simão (University of São Paulo, BR)
-Volker Stolz (Western Norway University of Applied Sciences, NO)
 Workshop/Tutorial Chairs
-Antonio Cerone (Nazarbayev University, KZ)
-Einar Broch Johnsen (University of Oslo, NO)\
-Local Organisation Chairs
-Xiaoshan Li (University of Macau, MO)
-Ignacio Marcovecchio (UNU-CS, MO)
-Joseph Chi Man Pun (University of Macau, MO)\</description>
+Local Organisation Chair
+Lars Michael Kristensen (Western Norway University of Applied Sciences, NO)
+Program Committee</description>
     </item>
     
     <item>
@@ -127,8 +113,7 @@ Joseph Chi Man Pun (University of Macau, MO)\</description>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/dates/</guid>
-      <description>\
-         Abstract submission:  Monday, 22 June 2020 Friday, 10 July 2020 (extended)    Paper submission: Friday, 26 June 2020 Friday, 17 July 2020 (extended)    Notification: Monday, 14 September 2020     Friday, 18 September 2020 (extended)    Camera-ready: Wednesday, 30 September 2020     Friday, 2 October 2020 (extended)    Satellite events: 30 November - 1 December 2020   Main Conference: 2-4 December 2020    </description>
+      <description>         Abstract submission  To be announced   Paper submission To be announced   Notification To be announced   Camera-ready To be announced        Petri Nets course 19 June - 20 June 2022   Workshops 20 June - 21 June 2022   Tutorials 20 June - 21 June 2022   Main Conference 22 June - 24 June 2022    </description>
     </item>
     
     <item>

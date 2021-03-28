@@ -2,31 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://petrinets2022.github.io/home/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrinets2022.github.io/accepted/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://petrinets2022.github.io/about/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://petrinets2022.github.io/rvlec/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petrinets2022.github.io/keynotes/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://petrinets2022.github.io/about/</loc>
-    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://petrinets2022.github.io/sponsor/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://petrinets2022.github.io/home/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://petrinets2022.github.io/accepted/</loc>
+    <loc>https://petrinets2022.github.io/cfp/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petrinets2022.github.io/registration/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petrinets2022.github.io/contact/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://petrinets2022.github.io/cfp/</loc>
-    <lastmod>2020-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://petrinets2022.github.io/committees/</loc>
     <lastmod>2020-02-02T00:00:00+00:00</lastmod>
