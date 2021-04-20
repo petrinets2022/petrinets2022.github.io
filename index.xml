@@ -14,7 +14,7 @@
       
       <guid>https://petrinets2022.github.io/home/</guid>
       <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022.
-The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus bergen
+The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.
  The city of Bergen Bergen is a world heritage city and the gateway to the Fjords of Norway.</description>
     </item>
     
@@ -100,11 +100,19 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/committees/</guid>
-      <description>Program Committee Chairs
-Workshop/Tutorial Chairs
-Local Organisation Chair
-Lars Michael Kristensen (Western Norway University of Applied Sciences, NO)
-Program Committee</description>
+      <description>Local organisation chair
+Lars Michael Kristensen (Western Norway University of Applied Sciences)
+Program committee chairs
+Laure Petrucci (University Paris 13)
+Luca Bernardinello (University de Milano Bicocca)
+Conference program Committee
+To be announced
+Workshop chairs
+Gianfranco Ciardo (Iowa State University)
+Robin Bergenthum (Fern Universitet Hagen)
+Petri Nets course and tutorial chairs
+Jorg Desel (Fern Universitet Hagen)
+Jetty Kleijn (Leiden University)</description>
     </item>
     
     <item>
