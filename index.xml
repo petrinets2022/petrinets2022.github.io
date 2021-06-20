@@ -15,6 +15,7 @@
       <guid>https://petrinets2022.github.io/home/</guid>
       <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022.
 The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.
+Call for Papers
  The city of Bergen Bergen is a world heritage city and the gateway to the Fjords of Norway.</description>
     </item>
     
@@ -26,6 +27,15 @@ The conference is organised by the Software Engineering Research Group at Wester
       <guid>https://petrinets2022.github.io/accepted/</guid>
       <description> To be announced
  </description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>https://petrinets2022.github.io/programme/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/programme/</guid>
+      <description>  </description>
     </item>
     
     <item>
@@ -48,12 +58,102 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
     </item>
     
     <item>
+      <title>Accommodation</title>
+      <link>https://petrinets2022.github.io/accommodation/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/accommodation/</guid>
+      <description> Information about hotels will be provided later.
+ </description>
+    </item>
+    
+    <item>
+      <title>Conference Venue</title>
+      <link>https://petrinets2022.github.io/venue/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/venue/</guid>
+      <description> Detailed information about the conference venue will be provided later.
+ </description>
+    </item>
+    
+    <item>
       <title>Keynote Speakers</title>
       <link>https://petrinets2022.github.io/keynotes/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/keynotes/</guid>
       <description> To be announced
+ </description>
+    </item>
+    
+    <item>
+      <title>Local Weather</title>
+      <link>https://petrinets2022.github.io/weather/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/weather/</guid>
+      <description> Updated weather forecast will be provided later.
+ </description>
+    </item>
+    
+    <item>
+      <title>Main Track</title>
+      <link>https://petrinets2022.github.io/mainconference/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/mainconference/</guid>
+      <description> The main conference takes place from Wednesday 22 to Friday 24. The three days before the main conference also offer a wide range of activities.
+It is also possible to arrange meetings and courses related to Petri Nets and concurrency. Submissions for such activities must contain a 2-5 page description. They must be received by the Workshops chairs via email no later than January 13, 2022.
+ </description>
+    </item>
+    
+    <item>
+      <title>Petri Nets Course</title>
+      <link>https://petrinets2022.github.io/pncourse/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/pncourse/</guid>
+      <description>The Petri Net Course takes place from Sunday 19 to Tuesday 21. It offers a thorough introduction to Petri nets in four half-day modules on Sunday 19 and Monday 20, and a full-day tutorial module on Tuesday 21. For successful participation in the entire course, including preparation and examination, three credit points (ECTS) will be awarded. Each module of the course can also be taken separately, without any credit.</description>
+    </item>
+    
+    <item>
+      <title>Social Events</title>
+      <link>https://petrinets2022.github.io/social/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/social/</guid>
+      <description> Information about the social events, including welcome reception and conference dinner will be provided later.
+ </description>
+    </item>
+    
+    <item>
+      <title>Travel Information</title>
+      <link>https://petrinets2022.github.io/gettingthere/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/gettingthere/</guid>
+      <description> Travel information will be provided later.
+ </description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://petrinets2022.github.io/tutorials/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/tutorials/</guid>
+      <description> Information about tutorials will be provided later.
+ </description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://petrinets2022.github.io/workshops/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/workshops/</guid>
+      <description> Information about affiliated workshops will be provided later.
  </description>
     </item>
     
@@ -72,8 +172,8 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/cfp/</guid>
-      <description> To be added
- </description>
+      <description>Call for Papers The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022. The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.
+The language of the conference is English, and its proceedings will be published by Springer-Verlag in Lecture Notes in Computer Science.</description>
     </item>
     
     <item>
@@ -100,19 +200,20 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/committees/</guid>
-      <description>Local organisation chair
+      <description>Organisation chairs
 Lars Michael Kristensen (Western Norway University of Applied Sciences)
-Program committee chairs
-Laure Petrucci (University Paris 13)
-Luca Bernardinello (University de Milano Bicocca)
-Conference program Committee
-To be announced
+Violet Ka I Pun (Western Norway University of Applied Sciences)
 Workshop chairs
 Gianfranco Ciardo (Iowa State University)
 Robin Bergenthum (Fern Universitet Hagen)
 Petri Nets course and tutorial chairs
 Jorg Desel (Fern Universitet Hagen)
-Jetty Kleijn (Leiden University)</description>
+Jetty Kleijn (Leiden University)
+Program committee chairs
+Laure Petrucci (University Sorbonne Paris Nord &amp;amp; CNRS)
+Luca Bernardinello (University de Milano Bicocca)
+Conference programme committee
+Elvio Amparore, Italy</description>
     </item>
     
     <item>
@@ -121,16 +222,7 @@ Jetty Kleijn (Leiden University)</description>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/dates/</guid>
-      <description>         Abstract submission  To be announced   Paper submission To be announced   Notification To be announced   Camera-ready To be announced        Petri Nets course 19 June - 20 June 2022   Workshops 20 June - 21 June 2022   Tutorials 20 June - 21 June 2022   Main Conference 22 June - 24 June 2022    </description>
-    </item>
-    
-    <item>
-      <title>Venue</title>
-      <link>https://petrinets2022.github.io/venue/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petrinets2022.github.io/venue/</guid>
-      <description>ICTAC 2020 will take place in the University of Macau. You can easily reach the campus from either the city centre by public transport.</description>
+      <description>         Abstract submission  January 13, 2022 (AoE)   Paper submission January 20, 2022 (AoE)   Notification March 5, 2022   Camera-ready March 18, 2022        Early registration To be announced        Petri Nets course 19 June - 20 June 2022   Workshops 20 June - 21 June 2022   Tutorials 20 June - 21 June 2022   Main Conference 22 June - 24 June 2022    </description>
     </item>
     
   </channel>
