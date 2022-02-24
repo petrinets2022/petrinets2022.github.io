@@ -13,9 +13,9 @@
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/home/</guid>
-      <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022.
-The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.
-13/01/2022: Submission deadlines have been extended: Abstract registration Jan. 20, full papers Jan. 27</description>
+      <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency and affiliated workshops, advanced tutorials, and Petri netts PhD course will take place in Bergen, Norway on 19 June - 24 June, 2022.
+!!! Consider submitting a paper to one of the affiliated workshops !!!
+ Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.</description>
     </item>
     
     <item>
@@ -83,9 +83,8 @@ Detailed information about the conference venue will be provided later.
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/keynotes/</guid>
-      <description> Carl Adam Petri Speaker
- Prof. Paulo Esteves-Verissimo, King Abdullah University of Science and Technology  Invited Speakers
- Prof. Volker Diekert, University of Stuttgart Prof. Marieke Huisman, University of Twente   </description>
+      <description>Carl Adam Petri Speaker  Prof. Paulo Esteves-Verissimo (King Abdullah University of Science and Technology): Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world?  Invited Speakers   Prof. Volker Diekert (University of Stuttgart): Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten
+  Prof. Marieke Huisman (University of Twente) VerCors and Alpinist: correctness of GPU applications throughout the development of cycle</description>
     </item>
     
     <item>
@@ -145,8 +144,7 @@ Further travel information will be provided later.
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/tutorials/</guid>
-      <description> Information about tutorials will be provided later.
- </description>
+      <description>  Model-based Software Engineering for/with Petri Nets (E. Kindler) Spatio-temporal modelling and simulation with the FCPP Aggregate Programming framework (V. Stolz, Ferruccio Damiani, Giorgio Audrito)   </description>
     </item>
     
     <item>
@@ -174,8 +172,7 @@ Further travel information will be provided later.
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/cfp/</guid>
-      <description>Call for Papers The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022. The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.
-The language of the conference is English, and its proceedings will be published by Springer-Verlag in Lecture Notes in Computer Science.</description>
+      <description>Call for Papers - Affiliated Workshops  Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.ttu.ee/events/heda-2022/  Call for Papers - Main conference (deadline passed) The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022. The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.</description>
     </item>
     
     <item>
