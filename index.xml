@@ -144,7 +144,7 @@ Further travel information will be provided later.
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/tutorials/</guid>
-      <description>  Model-based Software Engineering for/with Petri Nets (E. Kindler) Spatio-temporal modelling and simulation with the FCPP Aggregate Programming framework (V. Stolz, Ferruccio Damiani, Giorgio Audrito)   </description>
+      <description>Model-based Software Engineering for/with Petri Nets  E. Kindler, DTU Compute, Technical University of Denmark.  Model-based Software Engineering (MBSE) is a catch-all term for software development technologies in which models are more than just &amp;ldquo;nice sketches&amp;rdquo; or &amp;ldquo;drawings&amp;rdquo;. In MBSE, models are mostly used for generating some parts of the code automatically from models or for executing models directly. The OMG&amp;rsquo;s Model Driven Architecture (MDA) is probably one of the most prominent approaches in this direction and Eclipse EMF is a very popular technology supporting MBSE.</description>
     </item>
     
     <item>
