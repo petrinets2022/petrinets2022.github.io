@@ -62,8 +62,7 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/accommodation/</guid>
-      <description> Information about hotels will be provided later.
- </description>
+      <description>Bergen is full of centrally located hotels, which are 5-6 tram stops (around 10 mins) away from the conference venue (tram stop: Kronstad). Here we list some hotels in various price ranges in decreasing order.</description>
     </item>
     
     <item>
@@ -72,9 +71,9 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/venue/</guid>
-      <description> The conference will take place at Campus Bergen in the K2 building.
-Detailed information about the conference venue will be provided later.
- </description>
+      <description>The conference will take place in the K2 building at Campus Bergen of Western Norway University of Applied Science. You can easily reach the building from either Bergen city centre or Bergen airport by tram (disembark at Kronstad stop).
+  
+Western Norway University of Applied Sciences Western Norway University of Applied Sciences is one of the largest higher education institution in Norway with approximately 1,800 employees and 16,000 students distributed on five campuses in Førde, Sogndal, Bergen, Stord and Haugesund.</description>
     </item>
     
     <item>
@@ -86,6 +85,17 @@ Detailed information about the conference venue will be provided later.
       <description> Carl Adam Petri Speaker  Prof. Paulo Esteves-Verissimo (King Abdullah University of Science and Technology): Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world?  Invited Speakers   Prof. Volker Diekert (University of Stuttgart): Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten
   Prof. Marieke Huisman (University of Twente) VerCors and Alpinist: correctness of GPU applications throughout the development cycle
    </description>
+    </item>
+    
+    <item>
+      <title>Local Weather</title>
+      <link>https://petrinets2022.github.io/bergen/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/bergen/</guid>
+      <description>The city of Bergen Bergen is a world heritage city and the gateway to the Fjords of Norway. The city is well-connected to all major European flight hubs.
+  More information on VisitBergen
+Bergen Weather Heard bad things about Bergen weather? Don&amp;rsquo;t worry, we&amp;rsquo;ve ordered reasonable weather! Check the forecast.</description>
     </item>
     
     <item>
@@ -104,7 +114,7 @@ Detailed information about the conference venue will be provided later.
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/mainconference/</guid>
-      <description>The main conference takes place from Wednesday 22 to Friday 24. The three days before the main conference also offer a wide range of activities.
+      <description>The main conference takes place from Wednesday to Friday, 22 - 24 June 2022. The three days before the main conference also offer a wide range of activities.
 It is also possible to arrange meetings and courses related to Petri Nets and concurrency. Submissions for such activities must contain a 2-5 page description. They must be received by the Workshops chairs via email no later than January 13, 2022.
 List of accepted papers for the main conference</description>
     </item>
@@ -133,7 +143,7 @@ List of accepted papers for the main conference</description>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/sponsor/</guid>
-      <description>  </description>
+      <description>Sponsored by</description>
     </item>
     
     <item>
@@ -142,9 +152,11 @@ List of accepted papers for the main conference</description>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/gettingthere/</guid>
-      <description> The conference venue is located approximately 3 km from the city centre and easily reachable by the tramline (approx. 10 minutes travel time). The tramline also connects the city centre to Bergen Airport (approx 45 minute travel).
-Further travel information will be provided later.
- </description>
+      <description>Transportation Bergen can easily be reached through its international airport, which is also served by low-cost airlines.
+In addition, Bergen can be reached by train via Oslo. Another alternative is the overnight ferry from Hirtshals/Denmark.
+Useful links: At Skyss.no you will find routes and timetables for public transport in Bergen and the surrounding area.
+From Bergen Airport to Bergen city center:
+ The tram (Bybanen) runs from the airport (Bergen Lufthavn Flesland) to the city center (Byparken) and takes around 43 minutes.</description>
     </item>
     
     <item>
