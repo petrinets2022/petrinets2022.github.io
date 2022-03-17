@@ -13,9 +13,9 @@
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/home/</guid>
-      <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022.
-The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.
- The city of Bergen Bergen is a world heritage city and the gateway to the Fjords of Norway.</description>
+      <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency and affiliated workshops, advanced tutorials, and Petri netts PhD course will take place in Bergen, Norway on 19 June - 24 June, 2022.
+Submission of papers to one of the affiliated workshops
+ Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.</description>
     </item>
     
     <item>
@@ -26,6 +26,15 @@ The conference is organised by the Software Engineering Research Group at Wester
       <guid>https://petrinets2022.github.io/accepted/</guid>
       <description> To be announced
  </description>
+    </item>
+    
+    <item>
+      <title>Programme</title>
+      <link>https://petrinets2022.github.io/programme/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/programme/</guid>
+      <description>  </description>
     </item>
     
     <item>
@@ -48,22 +57,113 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
     </item>
     
     <item>
+      <title>Accommodation</title>
+      <link>https://petrinets2022.github.io/accommodation/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/accommodation/</guid>
+      <description> Information about hotels will be provided later.
+ </description>
+    </item>
+    
+    <item>
+      <title>Conference Venue</title>
+      <link>https://petrinets2022.github.io/venue/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/venue/</guid>
+      <description> The conference will take place at Campus Bergen in the K2 building.
+Detailed information about the conference venue will be provided later.
+ </description>
+    </item>
+    
+    <item>
       <title>Keynote Speakers</title>
       <link>https://petrinets2022.github.io/keynotes/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/keynotes/</guid>
-      <description> To be announced
+      <description> Carl Adam Petri Speaker  Prof. Paulo Esteves-Verissimo (King Abdullah University of Science and Technology): Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world?  Invited Speakers   Prof. Volker Diekert (University of Stuttgart): Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten
+  Prof. Marieke Huisman (University of Twente) VerCors and Alpinist: correctness of GPU applications throughout the development cycle
+   </description>
+    </item>
+    
+    <item>
+      <title>Local Weather</title>
+      <link>https://petrinets2022.github.io/weather/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/weather/</guid>
+      <description> Updated weather forecast will be provided later.
  </description>
     </item>
     
     <item>
-      <title>Sponsor</title>
+      <title>Main Track</title>
+      <link>https://petrinets2022.github.io/mainconference/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/mainconference/</guid>
+      <description>The main conference takes place from Wednesday 22 to Friday 24. The three days before the main conference also offer a wide range of activities.
+It is also possible to arrange meetings and courses related to Petri Nets and concurrency. Submissions for such activities must contain a 2-5 page description. They must be received by the Workshops chairs via email no later than January 13, 2022.
+List of accepted papers for the main conference</description>
+    </item>
+    
+    <item>
+      <title>Petri Nets Course</title>
+      <link>https://petrinets2022.github.io/pncourse/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/pncourse/</guid>
+      <description>The Petri Net Course takes place from Sunday 19 to Tuesday 21. It offers a thorough introduction to Petri nets in four half-day modules on Sunday 19 and Monday 20, and a full-day tutorial module on Tuesday 21. For successful participation in the entire course, including preparation and examination, three credit points (ECTS) will be awarded. Each module of the course can also be taken separately, without any credit.</description>
+    </item>
+    
+    <item>
+      <title>Social Events</title>
+      <link>https://petrinets2022.github.io/social/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/social/</guid>
+      <description>  Tuesday: Welcome reception hosted by the municipality of Bergen. Wednesday: Conference dinner Thursday: social event in relation to the mid-summer celebrations in Bergen.   </description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
       <link>https://petrinets2022.github.io/sponsor/</link>
-      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/sponsor/</guid>
-      <description></description>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Travel Information</title>
+      <link>https://petrinets2022.github.io/gettingthere/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/gettingthere/</guid>
+      <description> The conference venue is located approximately 3 km from the city centre and easily reachable by the tramline (approx. 10 minutes travel time). The tramline also connects the city centre to Bergen Airport (approx 45 minute travel).
+Further travel information will be provided later.
+ </description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://petrinets2022.github.io/tutorials/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/tutorials/</guid>
+      <description>Model-based Software Engineering for/with Petri Nets  E. Kindler, DTU Compute, Technical University of Denmark.  Model-based Software Engineering (MBSE) is a catch-all term for software development technologies in which models are more than just &amp;ldquo;nice sketches&amp;rdquo; or &amp;ldquo;drawings&amp;rdquo;. In MBSE, models are mostly used for generating some parts of the code automatically from models or for executing models directly. The OMG&amp;rsquo;s Model Driven Architecture (MDA) is probably one of the most prominent approaches in this direction and Eclipse EMF is a very popular technology supporting MBSE.</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://petrinets2022.github.io/workshops/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/workshops/</guid>
+      <description> Affiliated workshops
+ Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.ttu.ee/events/heda-2022/   </description>
     </item>
     
     <item>
@@ -72,8 +172,7 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/cfp/</guid>
-      <description> To be added
- </description>
+      <description>Call for Papers - Affiliated Workshops  Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.ttu.ee/events/heda-2022/  Call for Papers - Main conference (deadline passed) The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022. The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.</description>
     </item>
     
     <item>
@@ -82,7 +181,7 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/registration/</guid>
-      <description>To be announced</description>
+      <description>Registration for the conference (including Petri net course, workshops and tutorials) will be available from mid-April.</description>
     </item>
     
     <item>
@@ -100,19 +199,20 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/committees/</guid>
-      <description>Local organisation chair
+      <description>Organisation chairs
 Lars Michael Kristensen (Western Norway University of Applied Sciences)
-Program committee chairs
-Laure Petrucci (University Paris 13)
-Luca Bernardinello (University de Milano Bicocca)
-Conference program Committee
-To be announced
+Violet Ka I Pun (Western Norway University of Applied Sciences)
 Workshop chairs
 Gianfranco Ciardo (Iowa State University)
-Robin Bergenthum (Fern Universitet Hagen)
+Robin Bergenthum (Fern Universität in Hagen)
 Petri Nets course and tutorial chairs
 Jorg Desel (Fern Universitet Hagen)
-Jetty Kleijn (Leiden University)</description>
+Jetty Kleijn (Leiden University)
+Program committee chairs
+Laure Petrucci (University Sorbonne Paris Nord &amp;amp; CNRS)
+Luca Bernardinello (University de Milano Bicocca)
+ACSD track chairs
+Jörg Desel (Fern Universität in Hagen)</description>
     </item>
     
     <item>
@@ -121,16 +221,10 @@ Jetty Kleijn (Leiden University)</description>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/dates/</guid>
-      <description>         Abstract submission  To be announced   Paper submission To be announced   Notification To be announced   Camera-ready To be announced        Petri Nets course 19 June - 20 June 2022   Workshops 20 June - 21 June 2022   Tutorials 20 June - 21 June 2022   Main Conference 22 June - 24 June 2022    </description>
-    </item>
-    
-    <item>
-      <title>Venue</title>
-      <link>https://petrinets2022.github.io/venue/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://petrinets2022.github.io/venue/</guid>
-      <description>ICTAC 2020 will take place in the University of Macau. You can easily reach the campus from either the city centre by public transport.</description>
+      <description>Submission deadline for the main conference has passed.
+Submission to affiliated workshops is still possible
+ Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.ttu.ee/events/heda-2022/  Overall schedule for the conference
+         Petri Nets course  19 June - 20 June 2022   Workshops 20 June - 21 June 2022   Tutorials 20 June - 21 June 2022   Main Conference 22 June - 24 June 2022    </description>
     </item>
     
   </channel>
