@@ -13,9 +13,9 @@
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/home/</guid>
-      <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency and affiliated workshops, advanced tutorials, and Petri netts PhD course will take place in Bergen, Norway on 19 June - 24 June, 2022.
+      <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency with affiliated workshops, advanced tutorials, and the Petri nets PhD course will take place in Bergen, Norway on 19 June - 24 June, 2022.
 Submission of papers to one of the affiliated workshops
- Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.</description>
+ Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.</description>
     </item>
     
     <item>
@@ -57,33 +57,12 @@ Volker Stolz, Jose Ignacio Requeno, Martin Leucker Runtime Verification of Strea
     </item>
     
     <item>
-      <title>About Bergen</title>
-      <link>https://petrinets2022.github.io/bergen/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petrinets2022.github.io/bergen/</guid>
-      <description>The city of Bergen Bergen is a world heritage city and the gateway to the Fjords of Norway. The city is well-connected to all major European flight hubs.
-  More information on VisitBergen
-Bergen Weather Heard bad things about Bergen weather? Don&amp;rsquo;t worry, we&amp;rsquo;ve ordered reasonable weather! Check the forecast.</description>
-    </item>
-    
-    <item>
       <title>Accommodation</title>
       <link>https://petrinets2022.github.io/accommodation/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/accommodation/</guid>
       <description>Bergen is full of centrally located hotels, which are 5-6 tram stops (around 10 mins) away from the conference venue (tram stop: Kronstad). Here we list some hotels in various price ranges in decreasing order.</description>
-    </item>
-    
-    <item>
-      <title>Carl Adam Petri Speaker</title>
-      <link>https://petrinets2022.github.io/paulo-verissimo/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petrinets2022.github.io/paulo-verissimo/</guid>
-      <description>Prof. Paulo Esteves-Verissimo (King Abdullah University of Science and Technology, Saudi Arabia)  Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world? [Abstract in PDF]
-The praxis of algorithm or mechanism design, especially in concurrent or distributed systems, mandates clear statements of the assumptions underlying the design, such as topology, dimension, synchrony, performance, threats, etc. The design &amp;mdash; say, of an algorithm whose behaviour is defined by a set of properties (safety, liveness) &amp;mdash; is then shown correct by demonstrating it does secure those properties, given the assumptions.</description>
     </item>
     
     <item>
@@ -98,35 +77,25 @@ Western Norway University of Applied Sciences Western Norway University of Appli
     </item>
     
     <item>
-      <title>Invited Speaker</title>
-      <link>https://petrinets2022.github.io/diekert/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petrinets2022.github.io/diekert/</guid>
-      <description>Prof. Volker Diekert (University of Stuttgart, Germany)  Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten [Abstract in PDF]
-History. In the mid 1970-ties it became clear that free partially commutative monoids play a central role for the analysis and the understanding of concurrent systems. The foundations were developed in the 1973 JACM-paper by Robert Keller [1]. A few years later, in 1977 Antoni Mazurkiewicz published his seminal Aarhus technical report where he showed that, indeed, partial commutation describes the semantics of one-safe Petri nets perfectly [2].</description>
-    </item>
-    
-    <item>
-      <title>Invited Speaker</title>
-      <link>https://petrinets2022.github.io/huisman/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petrinets2022.github.io/huisman/</guid>
-      <description>Prof. Marieke Huisman (University of Twente, the Netherlands)  VerCors and Alpinist: correctness of GPU applications throughout the development cycle GPU programs are widely used in industry. They make use of special hardware, supporting massive parallelism. To avoid the introduction of errors, we can augment GPU programs with (pre- and postcondition-style) annotations to capture functional properties. The VerCors program verifier, a verifier for concurrent software, has been tailored to reason about such GPU programs, and in this talk I will explain how this is done, and discuss various GPU case studies that have been verified with VerCors.</description>
-    </item>
-    
-    <item>
       <title>Keynote Speakers</title>
       <link>https://petrinets2022.github.io/keynotes/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/keynotes/</guid>
-      <description>Carl Adam Petri Speaker  Prof. Paulo Esteves-Verissimo (King Abdullah University of Science and Technology, Saudi Arabia) Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world? (Read more &amp;hellip;)
-
- Invited Speakers  Prof. Volker Diekert (University of Stuttgart, Germany) Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten (Read more &amp;hellip;)
-
- Prof. Marieke Huisman (University of Twente, the Netherlands) VerCors and Alpinist: correctness of GPU applications throughout the development cycle (Read more &amp;hellip;)</description>
+      <description> Carl Adam Petri Speaker  Prof. Paulo Esteves-Verissimo (King Abdullah University of Science and Technology): Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world?  Invited Speakers   Prof. Volker Diekert (University of Stuttgart): Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten
+  Prof. Marieke Huisman (University of Twente) VerCors and Alpinist: correctness of GPU applications throughout the development cycle
+   </description>
+    </item>
+    
+    <item>
+      <title>Local Weather</title>
+      <link>https://petrinets2022.github.io/bergen/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/bergen/</guid>
+      <description>The city of Bergen Bergen is a world heritage city and the gateway to the Fjords of Norway. The city is well-connected to all major European flight hubs.
+  More information on VisitBergen
+Bergen Weather Heard bad things about Bergen weather? Don&amp;rsquo;t worry, we&amp;rsquo;ve ordered reasonable weather! Check the forecast.</description>
     </item>
     
     <item>
@@ -156,7 +125,8 @@ List of accepted papers for the main conference</description>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/pncourse/</guid>
-      <description>The Petri Net Course takes place from Sunday 19 to Tuesday 21. It offers a thorough introduction to Petri nets in four half-day modules on Sunday 19 and Monday 20, and a full-day tutorial module on Tuesday 21. For successful participation in the entire course, including preparation and examination, three credit points (ECTS) will be awarded. Each module of the course can also be taken separately, without any credit.</description>
+      <description>The Petri Net Course takes place from Sunday 19 to Tuesday 21.
+This course offers a thorough introduction to Petri Nets in four half-day modules on Sunday and Monday with on Tuesday a choice from two full-day tutorial module on applications of Petri Nets and/or new developments presented by experts in the area. Each module of the course can be taken separately. In particular, the lectures on Tuesday can be followed as independent tutorials.</description>
     </item>
     
     <item>
@@ -165,10 +135,7 @@ List of accepted papers for the main conference</description>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/social/</guid>
-      <description>Tuesday | Wednesday | Thursday
-Tuesday &amp;ndash; Welcome reception The welcome reception will be held in Håkonshallen (The King Håkon&amp;rsquo;s Hall) on Tuesday (21st June) at 20:00, sponsored by the municipality of Bergen.
-  Wednesday &amp;ndash; Conference reception More details are coming.
- Thursday &amp;ndash; Midsummer celebrations Social event in relation to the midsummer celebrations in Bergen. More details are coming.</description>
+      <description>  Tuesday: Welcome reception hosted by the municipality of Bergen. Wednesday: Conference dinner Thursday: social event in relation to the mid-summer celebrations in Bergen.   </description>
     </item>
     
     <item>
