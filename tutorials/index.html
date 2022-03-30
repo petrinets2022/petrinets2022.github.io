@@ -171,8 +171,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-              <hr>
-<h3 id="model-based-software-engineering-forwith-petri-nets">Model-based Software Engineering for/with Petri Nets</h3>
+              <p><a href="#mbse">Model-based SE for/with Petri Nets</a> | <a href="#ap">The FCPP Aggregate Programming framework</a></p>
+<h3 id="a-idmbsemodel-based-software-engineering-forwith-petri-netsa"><a id="mbse">Model-based Software Engineering for/with Petri Nets</a></h3>
 <ul>
 <li><em><a href="http://www2.compute.dtu.dk/~ekki/">E. Kindler</a>, DTU Compute, Technical University of Denmark.</em></li>
 </ul>
@@ -204,13 +204,19 @@ developing the ECNO Tool, which allows to generate software completely
 automatically from models which consists of the Event Coordination
 Notation and ECNO nets (which are a special version of Petri nets for
 modelling the life-cycle of is components).</p>
-<h3 id="spatio-temporal-modelling-and-simulation-with-the-fcpp-aggregate-programming-framework">Spatio-temporal modelling and simulation with the FCPP Aggregate Programming framework</h3>
+<hr>
+<h3 id="a-idapspatio-temporal-modelling-and-simulation-with-the-fcpp-aggregate-programming-frameworka"><a id="ap">Spatio-temporal modelling and simulation with the FCPP Aggregate Programming framework</a></h3>
 <ul>
 <li><em><a href="https://ict.hvl.no/people/volker-stolz/">Volker Stolz</a>, Western Norway University of Applied Sciences</em></li>
 <li><em><a href="http://www.di.unito.it/~damiani/">Ferruccio Damiani</a>, University of Turin</em></li>
 <li><em><a href="https://giorgio.audrito.info/#!/research">Giorgio Audrito</a>, University of Turin</em></li>
 </ul>
-<h2 id="abstract-is-coming">Abstract is coming.</h2>
+<p>As the density of computing devices in human environments continues to increase, the costs and challenges of maintaining distributed systems rise, driving a search for solutions increasing the autonomy of computing systems while reducing their overall complexity. Aggregate Programming (AP) is an emerging macro-programming approach, aiming at the abstraction of a network as a single spatially distributed and inherently robust platform to be programmed as a whole. This approach allows the functional composition of reusable blocks of collective behaviour, simplifying the study of resilience properties for distributed behaviour, such as: self-stabilisation, density independence, and runtime verification of formulas in spatio-temporal logics.</p>
+<p>Among other tools for programming and simulating distributed systems, the FCPP library stands out for its efficiency, portability and extensibility, and its support for aggregate programs. The library enables both deployments on
+networks of microcontrollers and simulations thereof, through a unified framework in which a distributed program can first be tested in simulation, and then concretely deployed. The simulator supports both batch collection of numeric statistical information, across multiple randomised executions of the distributed systems, as well as a real-time, interactive and three-dimensional visualization of the simulated system. Through a graphical user interface, the user can control the simulation flow, visualize summary information of the network at a single glance, and inspect detailed information via auxiliary windows. The interface is designed to require minimal effort from the end user for its setup, and can be further extended for increased interaction.</p>
+<p><a href="../img/ap-screenshot.png"><img style="padding-right:1em;float:left; width:60%;" src="../img/ap-screenshot.png"></a></p>
+<p>This tutorial presents the idea and main concepts of Aggregate Programming and spatio-temporal runtime verification, with a hands-on approach based on FCPP. We will run some existing examples, then we will
+<strong>customise</strong> them to get further insight in their inner workings. These examples will include archetypal routines in distributed systems (e.g, routing, data collection, leader election), as well as automated checking of spatio-temporal formulas.  In order to follow the tutorial, you will need your own laptop, the GCC or CLANG compilers, CMake, and possibly other dependencies <strong>that may differ based</strong> on your operating system. It is strongly advised to install the needed software beforehand, as detailed in: <a href="https://github.com/fcpp/fcpp-exercises#setup">https://github.com/fcpp/fcpp-exercises#setup</a>. A recorded walkthrough is also available at: <a href="https://www.youtube.com/watch?v=zWsNqJMVxKs">https://www.youtube.com/watch?v=zWsNqJMVxKs</a>.</p>
 
 	      
             </div>
