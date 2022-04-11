@@ -146,8 +146,7 @@ History. In the mid 1970-ties it became clear that free partially commutative mo
       
       <guid>https://petrinets2022.github.io/mainconference/</guid>
       <description>The main conference takes place from Wednesday to Friday, 22 - 24 June 2022. The three days before the main conference also offer a wide range of activities.
-It is also possible to arrange meetings and courses related to Petri Nets and concurrency. Submissions for such activities must contain a 2-5 page description. They must be received by the Workshops chairs via email no later than January 13, 2022.
-List of accepted papers for the main conference</description>
+Tentative schedule for the main conference track Wednesday 22 June 2022 Invited talk  Paulo Esteves-Verissimo: Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world?  Session 1: Application of Concurrency to System Design  Vegard Steinsland, Lars Kristensen and Shujun Zhang: Towards the Application of Coloured Petri Nets for Design and Validation of Power Electronics Converter Systems Abel Armas Cervantes and Farbod Taymouri: Leveraging Concurrency for Discovering Unseen Behaviour Clément Bertrand, Hanna Klaudel and Frederic Peschanski: Layered Memory Automata: recognizers for quasi-regular languages with unbounded memory  Session 2: Timed models  Loic Helouet and Pranay Agrawal: Waiting Nets Xavier Allamigeon, Marin Boyet and Stephane Gaubert: Computing Transience Bounds of Emergency Call Centers: a Hierarchical Timed Petri Net Approach  Session 3: Tools  Nicolas Amat and Louis Chauvet Kong: a Tool to Squash Concurrent Places Fernando Pereira, Filipe Moutinho, Anikó Costa, João-Paulo Barros, Rogério Campos-Rebelo and Luis Gomes: IOPT-Tools - From executable models to automatic code generation for embedded controllers development Jan Niklas Adams and Wil van der Aalst: OCπ: Object-Centric Process Insights  Tool presentations and demonstrations Thursday 23 June 2022 Invited talk  Volker Diekert: Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten  Session 4: Applications   Rafal Graczyk, Waldemar Bujwan, Marcin Darmetko, Marcin Dziezyc, Damien Galano, Konrad Grochowski, Michal Kurowski, Grzegorz Juchnikowski, Marek Morawski, Michal Mosdorf, Piotr Orleanski, Cedric Thizy and Marcus Voelp: From Graphs to the Science Computer of a Space Telescope.</description>
     </item>
     
     <item>
@@ -229,7 +228,8 @@ Model-based Software Engineering for/with Petri Nets  E. Kindler, DTU Compute, T
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/registration/</guid>
-      <description>Registration for the conference (including Petri net course, workshops and tutorials) will be available from mid-April.</description>
+      <description>Registration form and payment Registration for the conference (including Petri net course, workshops and tutorials) will be available from April 19.
+Registration fees          Petri Nets PhD course (Sun-Mon) NOK. 1.500,00 incl. VAT   Petri Nets PhD course + Workshop and tutorials (Sun-Tue)  NOK. 2.500,00 incl. VAT   Workshops and tutorials (Mon-Tue) NOK. 1.500,00 incl. VAT   Main Conference (Wed-Fri) NOK.</description>
     </item>
     
     <item>
@@ -238,7 +238,8 @@ Model-based Software Engineering for/with Petri Nets  E. Kindler, DTU Compute, T
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/contact/</guid>
-      <description>General inquiries about Petri Nets 2022 can be addressed to: petrinets2022@gmail.com.</description>
+      <description>General inquiries about Petri Nets 2022 can be addressed to the organising chairs:
+ Lars Michael Kristensen (Western Norway University of Applied Sciences)\ Violet Ka I Pun (Western Norway University of Applied Sciences)  </description>
     </item>
     
     <item>
