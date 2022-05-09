@@ -15,6 +15,7 @@
       <guid>https://petrinets2022.github.io/home/</guid>
       <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency with affiliated workshops, advanced tutorials, and the Petri nets PhD course will take place in Bergen, Norway on 19 June - 24 June, 2022.
 Registration is now OPEN
+Call for Tool Demonstrations - deadline June 10
 The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.</description>
     </item>
     
@@ -219,7 +220,19 @@ Model-based Software Engineering for/with Petri Nets  E. Kindler, DTU Compute, T
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/cfp/</guid>
-      <description>Call for Papers - Affiliated Workshops  Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.ttu.ee/events/heda-2022/  Call for Papers - Main conference (deadline passed) The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022. The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.</description>
+      <description>Call for Tool Demonstrations (Read more &amp;hellip;)
+Call for Papers - Affiliated Workshops (deadline passed)  Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.ttu.ee/events/heda-2022/  Call for Papers - Main conference (deadline passed) The 43rd International Conference on Application and Theory of Petri Nets and Concurrency will take place in Bergen, Norway on 19 June - 24 June, 2022.</description>
+    </item>
+    
+    <item>
+      <title>Call for Tool Demonstrations</title>
+      <link>https://petrinets2022.github.io/cftd/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/cftd/</guid>
+      <description>Call Tool Demonstrations - Session of Petri Nets 2022
+The Petri Nets conferences are the premier venue for researchers active in the field of analysis, design and specification of concurrent systems.
+Alongside the main conferences and their call for papers, an informal tool demonstration session is organized. Note that, this is a separate event from the dedicated tool-paper-track of PN 2022. The tool demonstration session is intended for researchers and practitioners, to show their recently developed tools to the other conference attendants.</description>
     </item>
     
     <item>
