@@ -78,6 +78,15 @@ Bergen Weather Heard bad things about Bergen weather? Don&amp;rsquo;t worry, we&
     </item>
     
     <item>
+      <title>ATAED workshop</title>
+      <link>https://petrinets2022.github.io/ataed/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/ataed/</guid>
+      <description>Programme - Tuesday, June 21 Session 1 [9:00 – 10:30] Welcome and invited talk  “Title of Key Note”; Sander Leemans, Full Professor RWTH Aachen University  Session 2 [11:00 – 12:30] Stochastics &amp;amp; Statistics  Jarne Vandenabeele, Gilles Vermaut, Jari Peeperkorn and Jochen De Weerdt. Enhancing Stochastic Petri Net-based Remaining Time Prediction using k-Nearest Neighbors Patrizia Schalk and Lisa Petrak. Taking on Noise in Event Logs using Hypothesis Tests  Session 3 [14:00 – 15:30] Region Theory  Marta Pietkiewicz-Koutny and Aishah Ahmed.</description>
+    </item>
+    
+    <item>
       <title>Carl Adam Petri Speaker</title>
       <link>https://petrinets2022.github.io/paulo-verissimo/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -97,6 +106,15 @@ The praxis of algorithm or mechanism design, especially in concurrent or distrib
 The conference venue / Campus is just next to the stop &amp;ldquo;Kronstad&amp;rdquo;.
   
 Western Norway University of Applied Sciences Western Norway University of Applied Sciences is one of the largest higher education institution in Norway with approximately 1,800 employees and 16,000 students distributed on five campuses in Førde, Sogndal, Bergen, Stord and Haugesund.</description>
+    </item>
+    
+    <item>
+      <title>HEDA workshop</title>
+      <link>https://petrinets2022.github.io/heda/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/heda/</guid>
+      <description>Programme for the HEAD workshop Programme is underway.</description>
     </item>
     
     <item>
@@ -137,7 +155,7 @@ History. In the mid 1970-ties it became clear that free partially commutative mo
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/weather/</guid>
-      <description> Updated weather forecast will be provided later.
+      <description> Daily weather forecast for Bergen
  </description>
     </item>
     
@@ -152,6 +170,15 @@ Tentative schedule for the main conference track Wednesday 22 June 2022 Invited 
     </item>
     
     <item>
+      <title>Model checking contest</title>
+      <link>https://petrinets2022.github.io/mcc/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/mcc/</guid>
+      <description>Programme for the model checking contest Programme is underway.</description>
+    </item>
+    
+    <item>
       <title>Petri Net Course</title>
       <link>https://petrinets2022.github.io/pncourse/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -159,6 +186,15 @@ Tentative schedule for the main conference track Wednesday 22 June 2022 Invited 
       <guid>https://petrinets2022.github.io/pncourse/</guid>
       <description>The Petri Net Course takes place from Sunday 19 to Tuesday 21.
 This course offers a thorough introduction to Petri Nets in four half-day modules on Sunday and Monday with an option of a tutorial module (tuesday) on applications of Petri Nets and/or new developments presented by experts in the area. Each module of the course can be taken separately. In particular, the lectures on Tuesday can be followed as independent tutorials.</description>
+    </item>
+    
+    <item>
+      <title>PNSE workshop</title>
+      <link>https://petrinets2022.github.io/pnse/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/pnse/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -201,8 +237,10 @@ From Bergen Airport to Bergen city centre:
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/tutorials/</guid>
-      <description>Model-based SE for/with Petri Nets | The FCPP Aggregate Programming framework
-Model-based Software Engineering for/with Petri Nets  E. Kindler, DTU Compute, Technical University of Denmark.  Model-based Software Engineering (MBSE) is a catch-all term for software development technologies in which models are more than just &amp;ldquo;nice sketches&amp;rdquo; or &amp;ldquo;drawings&amp;rdquo;. In MBSE, models are mostly used for generating some parts of the code automatically from models or for executing models directly.</description>
+      <description>The FCPP AP framework (Monday, 20 Jun) | Model-based SE for/with PNs (Tue, 21 Jun)
+ Spatio-temporal modelling and simulation with the FCPP Aggregate Programming framework  Volker Stolz, Western Norway University of Applied Sciences Ferruccio Damiani, University of Turin Giorgio Audrito, University of Turin  Date: Monday, 20 June 2022
+Time: 14:00&amp;ndash;17:30
+As the density of computing devices in human environments continues to increase, the costs and challenges of maintaining distributed systems rise, driving a search for solutions increasing the autonomy of computing systems while reducing their overall complexity.</description>
     </item>
     
     <item>
@@ -211,8 +249,9 @@ Model-based Software Engineering for/with Petri Nets  E. Kindler, DTU Compute, T
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/workshops/</guid>
-      <description> Affiliated workshops
- Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.ttu.ee/events/heda-2022/ 12th edition of the Model Checking Contest (MCC&#39;22): https://mcc.lip6.fr   </description>
+      <description> Affiliated workshops Monday   Petri Nets and Software Engineering (PNSE&#39;22)
+ PNSE Programme    12th edition of the Model Checking Contest (MCC&#39;22)
+ MCC programme    Tuesday  Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22)  Programme   International Health Data Workshop (HEDA&#39;22)  Programme     </description>
     </item>
     
     <item>
@@ -254,8 +293,8 @@ Registration fees (early registration) Early registration deadline is June 1. Pr
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/contact/</guid>
-      <description>General inquiries about Petri Nets 2022 can be addressed to the organising chairs:
- Lars Michael Kristensen (Western Norway University of Applied Sciences)\ Violet Ka I Pun (Western Norway University of Applied Sciences)  </description>
+      <description>General inquiries about Petri Nets 2022 can be addressed to the organising chairs
+ Lars Michael Kristensen (Western Norway University of Applied Sciences) Violet Ka I Pun (Western Norway University of Applied Sciences)  </description>
     </item>
     
     <item>
