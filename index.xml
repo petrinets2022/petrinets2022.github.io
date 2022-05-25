@@ -114,7 +114,8 @@ Western Norway University of Applied Sciences Western Norway University of Appli
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/heda/</guid>
-      <description>Programme for the HEAD workshop Programme is underway.</description>
+      <description>Programme Monday 20 June 2022 Project meeting (by invitation only)
+Tuesday 21 June 2022 09.00-10.45: Opening, Keynote and Short Presentations  Keynote: NN Health Sense Markus Bertl, Gunnar Piho and Peeter Ross. Exploratory Analysis of Health Insurance Billing Data from People with Psychiatric Diseases in Estonia: An Opportunity for Data Science and Artificial Intelligence? Jaroslaw Pasiak, Wojciech Pasiak, Harald Soleim, Remy Andre Monsen, Atle Birger Geitung, Guri-Elise Holgersen and Thomas Fiskeseth Larsen.</description>
     </item>
     
     <item>
@@ -330,6 +331,15 @@ Jörg Desel (Fern Universität in Hagen)</description>
 Submission to affiliated workshops is still possible
  Petri Nets and Software Engineering (PNSE&#39;22): https://www2.informatik.uni-hamburg.de/TGI/events/pnse/ Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22): https://www.fernuni-hagen.de/ataed/ataed2022/ International Health Data Workshop (HEDA&#39;22): https://cs.ttu.ee/events/heda-2022/  Overall schedule for the conference
          Petri Nets course  19 June - 20 June 2022   Workshops 20 June - 21 June 2022   Tutorials 20 June - 21 June 2022   Main Conference 22 June - 24 June 2022    </description>
+    </item>
+    
+    <item>
+      <title>Programme Overview</title>
+      <link>https://petrinets2022.github.io/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://petrinets2022.github.io/overview/</guid>
+      <description>Program Overview     Sunday  Monday  Tuesday  Wednesday  Thursday  Friday       19 Jun 20 Jun 21 Jun 22 Jun 23 Jun 24 Jun             PN Course PN Course MC Contest                 PNSE ATAED          Main Main Main     HEDA HEDA Track Track Track              FCPP MbSE4PNs                  Welcome Conference        Reception Dinner      </description>
     </item>
     
   </channel>
