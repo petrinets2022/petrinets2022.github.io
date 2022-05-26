@@ -14,9 +14,7 @@
       
       <guid>https://petrinets2022.github.io/home/</guid>
       <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency with affiliated workshops, advanced tutorials, and the Petri nets PhD course will take place in Bergen, Norway on 19 June - 24 June, 2022.
-Registration is now OPEN
-Call for Tool Demonstrations - deadline June 10
-The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.</description>
+News  Registration is now OPEN Call for Tool Demonstrations - deadline June 10 Preliminary Programme [overview] [PDF]  The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.</description>
     </item>
     
     <item>
@@ -115,7 +113,7 @@ Western Norway University of Applied Sciences Western Norway University of Appli
       
       <guid>https://petrinets2022.github.io/heda/</guid>
       <description>Programme Monday 20 June 2022 Project meeting (by invitation only)
-Tuesday 21 June 2022 09.00-10.45: Opening, Keynote and Short Presentations  Keynote: NN Health Sense Markus Bertl, Gunnar Piho and Peeter Ross. Exploratory Analysis of Health Insurance Billing Data from People with Psychiatric Diseases in Estonia: An Opportunity for Data Science and Artificial Intelligence? Jaroslaw Pasiak, Wojciech Pasiak, Harald Soleim, Remy Andre Monsen, Atle Birger Geitung, Guri-Elise Holgersen and Thomas Fiskeseth Larsen.</description>
+Tuesday 21 June 2022 09.00-10.45 Session 1: Opening, Keynote and Short Presentations  Keynote: NN Health Sense Markus Bertl, Gunnar Piho and Peeter Ross. Exploratory Analysis of Health Insurance Billing Data from People with Psychiatric Diseases in Estonia: An Opportunity for Data Science and Artificial Intelligence? Jaroslaw Pasiak, Wojciech Pasiak, Harald Soleim, Remy Andre Monsen, Atle Birger Geitung, Guri-Elise Holgersen and Thomas Fiskeseth Larsen.</description>
     </item>
     
     <item>
@@ -167,7 +165,8 @@ History. In the mid 1970-ties it became clear that free partially commutative mo
       
       <guid>https://petrinets2022.github.io/mainconference/</guid>
       <description>The main conference takes place from Wednesday to Friday, 22 - 24 June 2022. The three days before the main conference also offer a wide range of activities.
-Tentative schedule for the main conference track Wednesday 22 June 2022 Invited talk  Paulo Esteves-Verissimo: Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world?  Session 1: Application of Concurrency to System Design  Vegard Steinsland, Lars Kristensen and Shujun Zhang: Towards the Application of Coloured Petri Nets for Design and Validation of Power Electronics Converter Systems Abel Armas Cervantes and Farbod Taymouri: Leveraging Concurrency for Discovering Unseen Behaviour Clément Bertrand, Hanna Klaudel and Frederic Peschanski: Layered Memory Automata: recognizers for quasi-regular languages with unbounded memory  Session 2: Timed models  Loic Helouet and Pranay Agrawal: Waiting Nets Xavier Allamigeon, Marin Boyet and Stephane Gaubert: Computing Transience Bounds of Emergency Call Centers: a Hierarchical Timed Petri Net Approach  Session 3: Tools  Nicolas Amat and Louis Chauvet Kong: a Tool to Squash Concurrent Places Fernando Pereira, Filipe Moutinho, Anikó Costa, João-Paulo Barros, Rogério Campos-Rebelo and Luis Gomes: IOPT-Tools - From executable models to automatic code generation for embedded controllers development Jan Niklas Adams and Wil van der Aalst: OCπ: Object-Centric Process Insights  Tool presentations and demonstrations Thursday 23 June 2022 Invited talk  Volker Diekert: Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten  Session 4: Applications   Rafal Graczyk, Waldemar Bujwan, Marcin Darmetko, Marcin Dziezyc, Damien Galano, Konrad Grochowski, Michal Kurowski, Grzegorz Juchnikowski, Marek Morawski, Michal Mosdorf, Piotr Orleanski, Cedric Thizy and Marcus Voelp: From Graphs to the Science Computer of a Space Telescope.</description>
+Tentative schedule for the main conference track Wednesday, 22 Jun | Thursday, 23 Jun | Friday, 24 Jun
+Wednesday 22 June 2022 Invited talk  Paulo Esteves-Verissimo: Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world?  Session 1: Application of Concurrency to System Design  Vegard Steinsland, Lars Kristensen and Shujun Zhang: Towards the Application of Coloured Petri Nets for Design and Validation of Power Electronics Converter Systems Abel Armas Cervantes and Farbod Taymouri: Leveraging Concurrency for Discovering Unseen Behaviour Clément Bertrand, Hanna Klaudel and Frederic Peschanski: Layered Memory Automata: recognizers for quasi-regular languages with unbounded memory  Session 2: Timed models  Loic Helouet and Pranay Agrawal: Waiting Nets Xavier Allamigeon, Marin Boyet and Stephane Gaubert: Computing Transience Bounds of Emergency Call Centers: a Hierarchical Timed Petri Net Approach  Session 3: Tools  Nicolas Amat and Louis Chauvet Kong: a Tool to Squash Concurrent Places Fernando Pereira, Filipe Moutinho, Anikó Costa, João-Paulo Barros, Rogério Campos-Rebelo and Luis Gomes: IOPT-Tools - From executable models to automatic code generation for embedded controllers development Jan Niklas Adams and Wil van der Aalst: OCπ: Object-Centric Process Insights  Tool presentations and demonstrations Thursday 23 June 2022 Invited talk  Volker Diekert: Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten  Session 4: Applications  Rafal Graczyk, Waldemar Bujwan, Marcin Darmetko, Marcin Dziezyc, Damien Galano, Konrad Grochowski, Michal Kurowski, Grzegorz Juchnikowski, Marek Morawski, Michal Mosdorf, Piotr Orleanski, Cedric Thizy and Marcus Voelp: From Graphs to the Science Computer of a Space Telescope.</description>
     </item>
     
     <item>
@@ -195,7 +194,7 @@ This course offers a thorough introduction to Petri Nets in four half-day module
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/pnse/</guid>
-      <description></description>
+      <description>Programme 9:00 – 10:30 Session 1: Welcome and keynote (H. Rölke)  Einar Broch Johnsen (University of Oslo): Digital Twins - An Emerging Paradigm for Model-Centric Engineering  11:00 – 12:30 Session 2: Long paper presentations (25+5)  Michael Köhler-Bußmeier and Heiko Rölke: Analysing Adaption Processes of Hornets Bart-Jan Hilbrands, Debjyoti Bera and Benny Akesson: Partial Specifications of Component-Based Systems using Petri Nets Lukas Voß, Sven Willrodt, Daniel Moldt, and Michael Haustermann: Between Expressiveness and Verifiability: P/T-nets with Synchronous Channels and Modular Structure  14:00 – 15:30 Session 3: Long paper presentations (25+5)  Ruben Dobler Strand, Lars Michael Kristensen and Laure Petrucci: Formal Specification and Validation of a Data-driven Software System for Fire Risk Prediction Federica Adobbati, Luca Bernardinello, Görkem Kılınç Soylu and Lucia Pomello: Information flow among transitions of bounded free-choice nets Rüdiger Valk and Daniel Moldt: On Reduction of Cycloids  16:00 – 17:30 Session 4: Short paper presentations (10+5)  Franck Pommereau, Colin Thomas and Cedric Gaucherel: EDEN framework for interactive analysis of ecosystems models Federica Adobbati and Łukasz Mikulski: Analysing multi-agent systems using 1-safe Petri nets Laif-Oke Clasen, Daniel Moldt and Marcel Hansson: Enhancement of Renew to Version 4.</description>
     </item>
     
     <item>
@@ -250,9 +249,7 @@ As the density of computing devices in human environments continues to increase,
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/workshops/</guid>
-      <description> Affiliated workshops Monday   Petri Nets and Software Engineering (PNSE&#39;22)
- PNSE Programme    12th edition of the Model Checking Contest (MCC&#39;22)
- MCC programme    Tuesday  Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22)  Programme   International Health Data Workshop (HEDA&#39;22)  Programme     </description>
+      <description> Affiliated workshops Monday  Petri Nets and Software Engineering (PNSE&#39;22)  PNSE Programme   12th edition of the Model Checking Contest (MCC&#39;22)  MCC programme    Tuesday  Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22)  Programme   International Health Data Workshop (HEDA&#39;22)  Programme     </description>
     </item>
     
     <item>
@@ -339,7 +336,13 @@ Submission to affiliated workshops is still possible
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/overview/</guid>
-      <description>Program Overview     Sunday  Monday  Tuesday  Wednesday  Thursday  Friday       19 Jun 20 Jun 21 Jun 22 Jun 23 Jun 24 Jun             PN Course PN Course MC Contest                 PNSE ATAED          Main Main Main     HEDA HEDA Track Track Track              FCPP MbSE4PNs                  Welcome Conference        Reception Dinner      </description>
+      <description>Program Overview .tg {border-collapse:collapse;border-spacing:0;} .tg td{font-family:Arial, sans-serif;font-size:18px;padding:10px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;} .tg th{font-family:Arial, sans-serif;font-size:18px;font-weight:normal;padding:10px 10px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;} .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top} .tg .tg-lyu2{font-weight:bold;background-color:#0085a1;color:#ffffff;border-color:#0085a1;text-align:center;vertical-align:top} .tg .tg-fymr{font-weight:bold;border-color:#0085a1;text-align:left;vertical-align:top} .tg .tg-0pky{text-align:center;vertical-align:top} .tg .tg-0lax{text-align:left;vertical-align:top} .tg .tg-separate{border-width:2px;border-style: double none none none;border-color:#0085a1;}   Sunday
+19 Jun Monday
+20 Jun Tuesday
+21 Jun Wednesday
+22 Jun Thursday
+23 Jun Friday
+24 Jun   PN Course PN Course MC Contest    PNSE ATAED    HEDA HEDA Main Track Main Track Main Track	   FCPP MbSE4PNs  	          Welcome</description>
     </item>
     
   </channel>
