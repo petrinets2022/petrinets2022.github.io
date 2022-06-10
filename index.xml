@@ -81,7 +81,9 @@ Bergen Weather Heard bad things about Bergen weather? Don&amp;rsquo;t worry, we&
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/ataed/</guid>
-      <description>Programme - Tuesday, June 21 Session 1 [9:00 – 10:30] Welcome and invited talk  Sander Leemans, Full Professor RWTH Aachen University. Leveraging frequencies in event data: a pledge for stochastic process mining  Session 2 [11:00 – 12:30] Stochastics &amp;amp; Statistics  Jarne Vandenabeele, Gilles Vermaut, Jari Peeperkorn and Jochen De Weerdt. Enhancing Stochastic Petri Net-based Remaining Time Prediction using k-Nearest Neighbors Patrizia Schalk and Lisa Petrak. Taking on Noise in Event Logs using Hypothesis Tests  Session 3 [14:00 – 15:30] Region Theory  Marta Pietkiewicz-Koutny and Aishah Ahmed.</description>
+      <description>Programme - Tuesday, June 21 Room: M004
+9:00 – 10:30 Session 1: Welcome and invited talk  Sander Leemans, Full Professor RWTH Aachen University. Leveraging frequencies in event data: a pledge for stochastic process mining  10:30 – 11:00 Coffee Break (Room: M130/131)
+11:00 – 12:30 Session 2: Stochastics &amp;amp; Statistics  Jarne Vandenabeele, Gilles Vermaut, Jari Peeperkorn and Jochen De Weerdt. Enhancing Stochastic Petri Net-based Remaining Time Prediction using k-Nearest Neighbors Patrizia Schalk and Lisa Petrak.</description>
     </item>
     
     <item>
@@ -113,7 +115,7 @@ Western Norway University of Applied Sciences Western Norway University of Appli
       
       <guid>https://petrinets2022.github.io/heda/</guid>
       <description>Programme Monday 20 June 2022 Project meeting (by invitation only)
-Tuesday 21 June 2022 09.00-10.45 Session 1: Opening, Keynote and Short Presentations  Keynote: NN Health Sense Markus Bertl, Gunnar Piho and Peeter Ross. Exploratory Analysis of Health Insurance Billing Data from People with Psychiatric Diseases in Estonia: An Opportunity for Data Science and Artificial Intelligence? Jaroslaw Pasiak, Wojciech Pasiak, Harald Soleim, Remy Andre Monsen, Atle Birger Geitung, Guri-Elise Holgersen and Thomas Fiskeseth Larsen.</description>
+ Tuesday 21 June 2022 09:00 - 10:45 Session 1: Opening, Keynote and Short Presentations  Keynote: Health Sense Markus Bertl, Gunnar Piho and Peeter Ross. Exploratory Analysis of Health Insurance Billing Data from People with Psychiatric Diseases in Estonia: An Opportunity for Data Science and Artificial Intelligence? Jaroslaw Pasiak, Wojciech Pasiak, Harald Soleim, Remy Andre Monsen, Atle Birger Geitung, Guri-Elise Holgersen and Thomas Fiskeseth Larsen.</description>
     </item>
     
     <item>
@@ -166,7 +168,7 @@ History. In the mid 1970-ties it became clear that free partially commutative mo
       <guid>https://petrinets2022.github.io/mainconference/</guid>
       <description>The main conference takes place from Wednesday to Friday, 22 - 24 June 2022. The three days before the main conference also offer a wide range of activities.
 Tentative schedule for the main conference track Wednesday, 22 Jun | Thursday, 23 Jun | Friday, 24 Jun
-Wednesday 22 June 2022 Invited talk  Paulo Esteves-Verissimo: Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world?  Session 1: Application of Concurrency to System Design  Vegard Steinsland, Lars Kristensen and Shujun Zhang: Towards the Application of Coloured Petri Nets for Design and Validation of Power Electronics Converter Systems Abel Armas Cervantes and Farbod Taymouri: Leveraging Concurrency for Discovering Unseen Behaviour Clément Bertrand, Hanna Klaudel and Frederic Peschanski: Layered Memory Automata: recognizers for quasi-regular languages with unbounded memory  Session 2: Timed models  Loic Helouet and Pranay Agrawal: Waiting Nets Xavier Allamigeon, Marin Boyet and Stephane Gaubert: Computing Transience Bounds of Emergency Call Centers: a Hierarchical Timed Petri Net Approach  Session 3: Tools  Nicolas Amat and Louis Chauvet Kong: a Tool to Squash Concurrent Places Fernando Pereira, Filipe Moutinho, Anikó Costa, João-Paulo Barros, Rogério Campos-Rebelo and Luis Gomes: IOPT-Tools - From executable models to automatic code generation for embedded controllers development Jan Niklas Adams and Wil van der Aalst: OCπ: Object-Centric Process Insights  Tool presentations and demonstrations Thursday 23 June 2022 Invited talk  Volker Diekert: Petri Nets and Mazurkiewicz Traces Partnership when Honeymoon is Forgotten  Session 4: Applications  Rafal Graczyk, Waldemar Bujwan, Marcin Darmetko, Marcin Dziezyc, Damien Galano, Konrad Grochowski, Michal Kurowski, Grzegorz Juchnikowski, Marek Morawski, Michal Mosdorf, Piotr Orleanski, Cedric Thizy and Marcus Voelp: From Graphs to the Science Computer of a Space Telescope.</description>
+Wednesday 22 June 2022 9:00 – 9:30 Welcome and openning session 9:30 – 10:30 Distinguish Carl Adam Petri Lecture  Paulo Esteves-Verissimo: Assumptions in computer science: mere mathematical hypotheses, or representations of the physical world?</description>
     </item>
     
     <item>
@@ -184,8 +186,9 @@ Wednesday 22 June 2022 Invited talk  Paulo Esteves-Verissimo: Assumptions in com
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/pncourse/</guid>
-      <description>The Petri Net Course takes place from Sunday 19 to Tuesday 21.
-This course offers a thorough introduction to Petri Nets in four half-day modules on Sunday and Monday with an option of a tutorial module (tuesday) on applications of Petri Nets and/or new developments presented by experts in the area. Each module of the course can be taken separately. In particular, the lectures on Tuesday can be followed as independent tutorials.</description>
+      <description>Sunday, 19 Jun | Monday, 20 Jun | Tuesday, 21 Jun
+The Petri Net Course takes place from Sunday 19 to Tuesday 21.
+This course offers a thorough introduction to Petri Nets in four half-day modules on Sunday and Monday with an option of a tutorial module (tuesday) on applications of Petri Nets and/or new developments presented by experts in the area. Each module of the course can be taken separately.</description>
     </item>
     
     <item>
@@ -194,7 +197,9 @@ This course offers a thorough introduction to Petri Nets in four half-day module
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/pnse/</guid>
-      <description>Programme 9:00 – 10:30 Session 1: Welcome and keynote (H. Rölke)  Einar Broch Johnsen (University of Oslo): Digital Twins - An Emerging Paradigm for Model-Centric Engineering  11:00 – 12:30 Session 2: Long paper presentations (25+5)  Federica Adobbati, Luca Bernardinello, Görkem Kılınç Soylu and Lucia Pomello: Information flow among transitions of bounded free-choice nets Bart-Jan Hilbrands, Debjyoti Bera and Benny Akesson: Partial Specifications of Component-Based Systems using Petri Nets Lukas Voß, Sven Willrodt, Daniel Moldt, and Michael Haustermann: Between Expressiveness and Verifiability: P/T-nets with Synchronous Channels and Modular Structure  14:00 – 15:30 Session 3: Long paper presentations (25+5)   Michael Köhler-Bußmeier and Heiko Rölke: Analysing Adaption Processes of Hornets</description>
+      <description>Programme Room: M004
+9:00 – 10:30 Session 1: Welcome and keynote (H. Rölke)  Einar Broch Johnsen (University of Oslo): Digital Twins - An Emerging Paradigm for Model-Centric Engineering  10:30 – 11:00 Coffee Break (in the canteen area of building K1)
+11:00 – 12:30 Session 2: Long paper presentations (25+5)  Federica Adobbati, Luca Bernardinello, Görkem Kılınç Soylu and Lucia Pomello: Information flow among transitions of bounded free-choice nets Bart-Jan Hilbrands, Debjyoti Bera and Benny Akesson: Partial Specifications of Component-Based Systems using Petri Nets Lukas Voß, Sven Willrodt, Daniel Moldt, and Michael Haustermann: Between Expressiveness and Verifiability: P/T-nets with Synchronous Channels and Modular Structure  12:30 – 14:00 Lunch (in the canteen area of building K1)</description>
     </item>
     
     <item>
@@ -206,8 +211,7 @@ This course offers a thorough introduction to Petri Nets in four half-day module
       <description>Tuesday | Wednesday | Thursday
 Tuesday &amp;ndash; Welcome reception The welcome reception will be held in Håkonshallen (The King Håkon&amp;rsquo;s Hall) on Tuesday (21st June) at 20:00, sponsored by the municipality of Bergen. Beverages and finger food will be served.
 It is important that attendees arrive on time as the doors will be close at 20:00.
-  Wednesday &amp;ndash; Conference dinner More details are coming.
- Thursday &amp;ndash; Midsummer celebrations Social event in relation to the midsummer celebrations in Bergen.</description>
+  Wednesday &amp;ndash; Conference dinner The conference dinner will take place at Grand Bergen on Wednesday (22nd June) at 20:00.</description>
     </item>
     
     <item>
@@ -241,6 +245,7 @@ From Bergen Airport to Bergen city centre:
       <description>The FCPP AP framework (Monday, 20 Jun) | Model-based SE for/with PNs (Tue, 21 Jun)
  Spatio-temporal modelling and simulation with the FCPP Aggregate Programming framework  Volker Stolz, Western Norway University of Applied Sciences Ferruccio Damiani, University of Turin Giorgio Audrito, University of Turin  Date: Monday, 20 June 2022
 Time: 14:00&amp;ndash;17:30
+Room: M005
 As the density of computing devices in human environments continues to increase, the costs and challenges of maintaining distributed systems rise, driving a search for solutions increasing the autonomy of computing systems while reducing their overall complexity.</description>
     </item>
     
@@ -250,7 +255,7 @@ As the density of computing devices in human environments continues to increase,
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/workshops/</guid>
-      <description> Affiliated workshops Monday  Petri Nets and Software Engineering (PNSE&#39;22)  PNSE Programme   12th edition of the Model Checking Contest (MCC&#39;22)  MCC programme    Tuesday  Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22)  Programme   International Health Data Workshop (HEDA&#39;22)  Programme     </description>
+      <description>Affiliated workshops Monday  Petri Nets and Software Engineering (PNSE&#39;22)  PNSE Programme   12th edition of the Model Checking Contest (MCC&#39;22)  MCC programme     Tuesday  Algorithms and Theories for the Analysis of Event Data (ATAED&#39;22)  Programme   International Health Data Workshop (HEDA&#39;22)  Programme    </description>
     </item>
     
     <item>
@@ -343,7 +348,14 @@ Submission to affiliated workshops is still possible
 21 Jun Wednesday
 22 Jun Thursday
 23 Jun Friday
-24 Jun   PN Course PN Course MC Contest    PNSE ATAED    HEDA HEDA Main Track Main Track Main Track	   FCPP MbSE4PNs  	          Welcome</description>
+24 Jun   PN Course
+Time:9:00-16:30
+Room: M125 PN Course
+Time:9:00-17:30
+Room: M125 MC Contest
+Time:16:00-17:30
+Room: M003    PNSE
+Time:9:00-17:30</description>
     </item>
     
   </channel>
