@@ -184,7 +184,77 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
               <hr>
-<p>Information about tools will be available soon</p>
+<p>Alongside the main conferences there will be a tool exhibition and demonstration from Wednesday until Friday in the same room as the coffee breaks. The tool exhibition will be opened as part of the tools session of the main conference on wednesday afternoon combined with a light serving of finger-food and drinks.</p>
+<p>The following tools will be part of the tool exhibition</p>
+<ul>
+<li><a href="#ecco">ecco</a></li>
+<li><a href="#ilovepetrinets">I ❤ Petri Nets</a></li>
+<li><a href="#epnk">ePNK</a></li>
+<li><a href="#gpensim">GPenSIM</a></li>
+<li><a href="#tina">Tina</a></li>
+<li><a href="#greatspn">GreatSPN</a></li>
+<li><a href="#titan">Titan</a></li>
+<li><a href="#iopttools">IOPT-Tools</a></li>
+</ul>
+<hr>
+<h2 id="ecco">ecco</h2>
+<p><em>Franck Pommereau, IBISC, Univ. Évry, Univ. Paris-Saclay</em></p>
+<p><a href="https://github.com/fpom/ecco">https://github.com/fpom/ecco</a></p>
+<p>ecco is a Jupyter library dedicated to the formal modelling and analysis of ecosystems in an interactive and incremental way, inspired from data analysis. It&rsquo;s central feature is an semi-symbolic representation of a model&rsquo;s state space as an explicit graph of symbolic sets of states, linked by the transitions allowing to reach one from another. Such so called &ldquo;component graphs&rdquo; can be refined by splitting their nodes with respect to various properties, in particular CTL formulas. The main input language consists of if/then rules on Boolean variables with a Petri nets semantics. ecco also features tools to graphically represent models specified with this language, and to perform static analysis.</p>
+<hr>
+<h2 id="a-nameilovepetrinetsa-i--petri-nets"><a name="ilovepetrinets"></a> I ❤ Petri Nets</h2>
+<p><em>Robin Bergenthum, Jakub Kovář, FernUni in Hagen, Germany</em></p>
+<p><a href="https://www.fernuni-hagen.de/ilovepetrinets">https://www.fernuni-hagen.de/ilovepetrinets</a></p>
+<p>I ❤ Petri Nets is a web tool kit implementing a neat collection of Petri net algorithms. One of the algorithms is a synthesis algorithm using Petri net regions. Just click the 🐴 button! Petri net regions will be presented at the ATAED 2022 workshop. The related paper is called A First Glimpse at Petri Net Regions by Robin and Jakub.</p>
+<hr>
+<h2 id="a-nameepnkaepnk"><a name="epnk"></a>ePNK</h2>
+<p><em>Ekkart Kindler, Technical University of Denmark, DTU Compute</em></p>
+<p><a href="http://www2.compute.dtu.dk/~ekki/projects/ePNK">http://www2.compute.dtu.dk/~ekki/projects/ePNK</a></p>
+<p>The Petri Net Markup Language (PNML) is an XML-based interchange format for Petri nets, which is an International Standard (ISO/IEC 15909-2). The standard focuses on PNML as an interchange format for high-level Petri nets. PNML, however, is more general and allows exchanging all kinds of Petri nets. To this end, PNML introduced the concept of Petri Net Type Definitions (PNTDs).</p>
+<p>There are many tools supporting one form of PNML or another, supporting some fixed PNTDs. The ePNK  was the first tool that allowed new PNTDs to be plugged in, basically, by adding a meta-model defining its features. The ePNK is then able to load and save these new net types, and allows end-users to edit these new net types in a graphical editor. In addition, the ePNK allows developers of new net types to customize the graphical representation of their net type, and to define own extensions and applications that can be plugged in to the ePNK.</p>
+<p>Primarily, the ePNK was meant to be a platform for easily implementing own Petri net types and own functions and applications for Petri nets. But, the ePNK comes with some additional applications for simulating high-level Petri nets and with some simple model checker for P/T-nets. Moreover, there are different simple and more sophisticated extensions for generating Java code from Petri nets.</p>
+<p>The newest features of the ePNK are its application interface and the possibility of plugging in new Petri types nets without any programming. The ePNK application interface allows developers to implement applications for simulation and analysis of Petri nets that have a graphical user interface for visualizing the results on top of the underlying graphical presentation of the Petri net. Moreover, the application interface of the ePNK provides means for the application to interact with the end-user via this interface.</p>
+<p>The ePNK is based on Eclipse and the Eclipse Modeling Framework (EMF), and is implemented as a collection of plugin for Eclipse.</p>
+<hr>
+<h2 id="a-namegpensimagpensim-general-purpose-petri-net-simulator"><a name="gpensim"></a>GPenSIM: General-purpose Petri Net Simulator</h2>
+<p><em>Reggie Davidrajuh, University of Stavanger</em></p>
+<p><a href="https://www.davidrajuh.net/gpensim/">https://www.davidrajuh.net/gpensim/</a></p>
+<p>General-purpose Petri Net Simulator (GPenSIM) is new and used by at least 14 universities worldwide for modeling, simulation, and performance analysis of discrete systems. GPenSIM is a simple, extensible tool so that the modelers can quickly learn it and then focus on the modeling job. GPenSIM is freely available; Springer has published two books; the first book on the basics (the user manual) and the second book on modular model development.     <br>
+GPenSIM advantages:</p>
+<ol>
+<li>(as already mentioned) Easy to learn &amp; use.</li>
+<li>Since it is a MATLAB toolbox, hundreds of functions already available on the MATLAB platform (e.g., classical control, Fuzzy logic, Neural Net, etc.) can be combined with Petri Nets.</li>
+<li>Petri Net models of real-life systems tend to become huge. GPenSIM offers two approaches for model size reduction: a) Modular models, and b) Resources.</li>
+</ol>
+<p>Users of GPenSIM have commended the flexibility of GPenSIM in their papers. An Australian research team says (*) &ldquo;Although there are many Petri Net modelling tools that support marked graphs, the GPenSim [30] modelling tool is ideal, primarily due to its flexibility in being able to control the system via the model to incorporate embedded computational components that can vary the token holding times.&rdquo; Another multinational research team says (**) &ldquo;Several tools exist for Petri net modeling such as SPNP, INA, CPN Tools, GPenSIM, and Renew Tool. We choose GPenSIM for analysis since it has more functionalities (i.e. mathematical formulas) as it is embedded in the MATLAB environment, which makes the simulation to be faster.&rdquo;</p>
+<p>(*) Cameron, A., et al. (2015) &ldquo;Rule-based peer-to-peer framework for decentralised real-time service oriented architectures.&rdquo; Science of Computer Programming, 97, 202-234. Elsevier.</p>
+<p>(**) Mutarraf, U., et al., &ldquo;Transformation of Business Process Model and Notation models onto Petri nets and their analysis,&rdquo; Advances in Mechanical Engineering, 10(12), 1687814018808170.</p>
+<hr>
+<h2 id="a-nametinaatina"><a name="tina"></a>Tina</h2>
+<p><em>Bernard Berthomieu, Silvano Dal Zilio, Didier Le Botlan, and Francois Vernadat, CNRS</em></p>
+<p><a href="https://projects.laas.fr/tina">https://projects.laas.fr/tina</a></p>
+<p>TINA (the TIme petri Net Analyzer) is a toolbox for the edition and analysis of Petri Nets and its extensions: inhibitor and read arcs; Time Petri Nets; priorities and stopwatches; and an extension of Time Petri Nets with data handling called Time Transition Systems.</p>
+<hr>
+<h2 id="a-namegreatspnagreatspn"><a name="greatspn"></a>GreatSPN</h2>
+<p><em>Elvio Amparore, Università di Torino</em></p>
+<p><a href="https://github.com/greatspn/SOURCES">https://github.com/greatspn/SOURCES</a></p>
+<p>GreatSPN (GRaphical Editor and Analyzer for Timed and Stochastic Petri Nets) is a software package for the modeling, validation, and performance evaluation of distributed systems using Generalized Stochastic Petri Nets and their colored extension, Stochastic Well-formed Nets. The tool provides a friendly framework to experiment with timed Petri net based modeling techniques. It implements efficient analysis algorithms to allow its use on rather complex applications.</p>
+<hr>
+<h2 id="a-nametitana-titan-tool-for-petri-net-product-line-analysis"><a name="titan"></a> Titan: Tool for PetrI net producT line ANalysis</h2>
+<p>Elena Gómez, José Ignacio Requeno, Universidad Autónoma de Madrid, Universidad Complutense de Madrid</p>
+<p><a href="https://github.com/antoniogarmendia/titan">https://github.com/antoniogarmendia/titan</a></p>
+<p>Titan is an Eclipse plug-in for Petri net Product Lines (PNPL). It allows the graphical definition of a PNPLs and the analysis of the following structural properties: state-machine, marked-graph, (extended) free-choice, and P- and T-invariants.</p>
+<p>Titan is built on top of Eclipse platform and Eclipse Modeling Framework (EMF). Its core components are the Petri nets Sirius Editor, based on Sirius, which integrates FeatureIDE to specify Feature Models. Titan internally uses the JaCoP Java library as CP solver for invariant analysis and Sat4J solver for the analysis of state-machine, marked-graph, and (extended) free-choice.</p>
+<p>We also include a transformation of PNPL into CPN to analyse behavioural properties.</p>
+<hr>
+<h2 id="a-nameiopttoolsaiopt-tools"><a name="iopttools"></a>IOPT-Tools</h2>
+<p><em>Luis Gomes, NOVA University Lisbon, Portugal</em></p>
+<p><a href="https://gres.uninova.pt/IOPT-Tools/">https://gres.uninova.pt/IOPT-Tools/</a></p>
+<p>The IOPT-Tools cloud-based tool-chain offers a complete set of tools supporting design automation for embedded controller’s development, benefiting from adopting a model-driven development attitude. The tools are freely available online at <a href="http://gres.uninova.pt/IOPT-Tools/">http://gres.uninova.pt/IOPT-Tools/</a>. The tool-chain relies on IOPT nets (Input-Output Place-Transition nets) to describe the controller behavior, allowing an explicit representation of constraints on input and output signals and events, which is necessary for the development of controllers.
+The IOPT-Tools tool-chain includes tools for interactive graphical IOPT nets models editing, simulation and test (token-player, timing diagram, remote debugging), as well as a state-space generator, state-space visualization, and a query system for properties verification.
+The tool-chain also supports the automatic generation of execution code to be directly deployed in the controllers' implementation platforms, such as FPGA boards, as well as Arduino, Raspberry, and other Linux-based boards. Most notably, it is possible to obtain C code and VHDL code to be directly deployed into the referred boards without writing/changing a line in the generated code.
+The tool-chain uses the PNML format for storing the models and can import PNML models generated by other frameworks, automatically generating, if necessary, an associated graphical representation. After, it is possible to add input and output signals and events to create controller models.
+IOPT-Tools also supports net operations, namely net addition, allowing composition of sub-models, and net splitting, which in conjunction with the use of clock domains and dedicated communication channels support the development of distributed controllers.</p>
 <hr>
 
 	      
