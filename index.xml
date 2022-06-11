@@ -14,7 +14,7 @@
       
       <guid>https://petrinets2022.github.io/home/</guid>
       <description>Welcome to Petri Nets 2022 The 43rd International Conference on Application and Theory of Petri Nets and Concurrency with affiliated workshops, advanced tutorials, and the Petri nets PhD course will take place in Bergen, Norway on 19 June - 24 June, 2022.
-News  Late Registration is still OPEN Call for Tool Demonstrations - deadline June 10 Preliminary Programme [overview] [PDF]  The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.</description>
+News  Programme [overview] [PDF] LNCS Proceedings of Petri Nets 2022 (free online access June 16 - July 16)  The conference is organised by the Software Engineering Research Group at Western Norway University of Applied Sciences and will be held at Campus Bergen.</description>
     </item>
     
     <item>
@@ -280,12 +280,14 @@ Alongside the main conferences and their call for papers, an informal tool demon
     </item>
     
     <item>
-      <title>Tool Demonstrations</title>
+      <title>Proceedings</title>
       <link>https://petrinets2022.github.io/proceedings/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://petrinets2022.github.io/proceedings/</guid>
-      <description>  </description>
+      <description> Participants registered for the conference have free online access to the proceedings of the conference.
+LNCS Proceedings of Petri Nets 2022
+ </description>
     </item>
     
     <item>
